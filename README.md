@@ -60,6 +60,7 @@ python des_decrypt.py 12345678 cipher.txt
 
 ## Screenshot
 A screenshot with my full name and student number is attached in the repository to demonstrate successful execution.
+![alt text](https://raw.githubusercontent.com/Farj-ana/DES-cryptosystem/refs/heads/main/Screenshot.png)
 
 ## References
 - [DES Encryption Documentation](https://cryptography.io/en/latest/hazmat/primitives/symmetric-encryption/?highlight=des)
